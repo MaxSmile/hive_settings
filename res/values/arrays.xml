@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <item>Custom(long click into a button)</item> -->
+    <string-array name="screen_off_items">
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>30 minutes</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="entries_lang">
+        <item>Default</item>
+        <item>English</item>
+        <item>Francais</item>
+        <item>Deutsch</item>
+        <item>Portugues</item>
+        <item>Român</item>
+        <item>Русский</item>
+        <item>Espanol</item>
+        <item>Український</item> <!--  -->
+    </string-array>
+    <string-array name="entryvalues_lang">
+        <item>default</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>es</item>
+        <item>uk</item>
+    </string-array>
+
+</resources>

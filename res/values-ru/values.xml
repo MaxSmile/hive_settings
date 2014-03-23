@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="s_location">Локация</string>
+    <string name="s_gps_network">GPS + Сеть</string>
+    <string name="s_network">Сеть</string>
+    <string name="s_wifi">Wi-Fi</string>
+    <string name="s_rotation">Вращение</string>
+    <string name="s_bluetooth">Bluetooth</string>
+    <string name="s_airplane">В полете</string>
+    <string name="s_sync">Синхронизация</string>
+    <string name="s_bright">Яркость</string>
+    <string name="s_discard">Discard</string>
+    <string name="s_cancel">Отмена</string>
+    <string name="s_save">Сохранить</string>
+    <string name="s_ok">Ок</string>
+    <string name="s_point">ТД:</string>
+    <string name="s_storage">Хранилище</string>
+    <string name="s_explorer">Проводник</string>
+    
+    <string name="s_brightness_current_lvl">Текущий уровень</string>
+    <string name="s_btn_brightness_custom">Своя</string>
+    <string name="s_brightness_auto">Авто</string>
+    <string name="s_btn_security">Безопасность</string>
+    <string name="s_btn_screen_off">Отключение экрана</string>
+    <string name="s_profile">Профили</string>
+    <string name="s_ringer_mode">Режим звонка</string>
+    <string name="s_apn">APN</string>
+    <string name="s_btn_apps">Приложения</string>
+    <string name="s_btn_memory">Память</string>
+    
+    <string name="s_volume_control">Регулятор громкости</string>
+    <string name="s_volume_ringer">Громкость звонка</string>
+    <string name="s_volume_notification">Громкость уведомлений</string>
+    <string name="s_volume_media">Мультимедиа</string>
+    <string name="s_volume_alarm">Громкость будильника</string>
+    <string name="s_volume_voice">Громкость голосового звонка</string>
+    <string name="s_volume_system">System volume</string>
+    
+    <string name="s_export_success">успешно экспортировано.</string>
+    <string name="s_export_access_denied">Извините, я не могу получить доступ.</string>
+    <string name="s_export_io_error">Ошибка ввода/вывода.</string>
+    <string name="s_open_error">Ошибка открытия.</string>
+    
+    <string name="s_security_ex">Исключение безопасности.</string>
+    
+    <string name="s_action_open_app">Открыть</string>
+    <string name="s_action_info_app">Информация</string>
+    <string name="s_action_export_app">Экспорт</string>
+    <string name="s_action_uninstall_app">Удалить</string>
+    
+    <string name="s_sort_by_name">Сортировка по имени</string>
+    <string name="s_sort_by_size">Сортировка по размеру</string>
+    
+    <string name="s_find_apps">Загрузка&#8230;</string>
+    <string name="s_no_files">Нет файлов</string>
+    
+    <string name="s_no_light_sensor">Нет датчика освещения</string>
+    
+    <string name="s_hold_me">Удерживай меня</string>
+    <string name="s_rate_me">Пожалуйста оставьте отзыв, чтобы помочь улучшить это приложение.</string>
+    <string name="s_prefs_caption">Настройки</string>
+    <string name="s_prefs_category_main">Основные</string>
+    <string name="s_prefs_category_apps_manager">Менеджер приложений</string>
+    <string name="s_no_thanks">Нет спасибо</string>
+    <string name="s_rate_it">Оценить!</string>
+    <string name="s_like_this_app">Нравится приложение?</string>
+    <string name="s_please_rate_it_google_play">Пожалуйста оставьте отзыв в Google Play!</string>
+    <string name="s_rate_this_app">Оставить отзыв в Google Play.</string>
+    <string name="s_five_stars">Мне нравится это приложение, 5 звезд!</string>
+    
+    <string name="s_desc">простой</string>
+    
+    <string name="s_notification_icon">Значок уведомления</string>
+    <string name="s_display_system_apps">Показать системные приложения</string>
+    
+    <string name="s_apps_count">Кол-во приложений:</string>
+    
+    <string name="s_screen_15sec">15 секунд</string>    
+	<string name="s_screen_30sec">30 секунд</string>
+	<string name="s_screen_1min">1 минута</string>
+	<string name="s_screen_2min">2 минуты</string>
+	<string name="s_screen_5min">5 минут</string>
+	<string name="s_screen_10min">10 минут</string>
+	<string name="s_screen_30min">30 минут</string>
+	<string name="s_screen_never">Никогда</string>
+	
+	<string name="s_ringer_onlysound">Только звук</string>
+	<string name="s_ringer_soundvibra">Звук и вибрация</string>
+	<string name="s_ringer_vibra">Только вибрация</string>
+	<string name="s_ringer_silent">Тишина</string>
+	
+	<string name="notif_text">Нажмите для открытия</string>
+	<string name="translation_help">Помочь с переводом</string>
+	<string name="lang_title">Язык приложения</string>
+	<string name="lang_dialog_title">Выберите язык:</string>
+	<string name="lang_summary">Нужно перезапустить приложение, чтобы изменения вступили в силу.\nКнопка меню -> Выход</string>
+	<string name="s_menu_settings">Настройки</string>
+	<string name="s_menu_quit">Выход</string>
+	<string name="s_say_update_text">Обновится после закрытия настроек.</string>
+	
+</resources>

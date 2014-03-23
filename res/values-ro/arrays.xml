@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <item>Custom(long click into a button)</item> -->
+    <string-array name="screen_off_items">
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minutes</item>
+        <item>30 de minute</item>
+        <item>Niciodată</item>
+    </string-array>
+
+</resources>

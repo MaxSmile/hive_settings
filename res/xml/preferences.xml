@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/s_prefs_category_main" >
+        <Preference
+            android:key="pref_rate_app"
+            android:summary="@string/s_five_stars"
+            android:title="@string/s_rate_this_app" />
+        
+        <Preference
+            android:key="pref_translation_help"
+            android:summary="http://crowdin.net/project/hive-settings"
+            android:title="@string/translation_help" />
+
+        <ListPreference
+            android:defaultValue="default"
+            android:dialogTitle="@string/lang_dialog_title"
+            android:entries="@array/entries_lang"
+            android:entryValues="@array/entryvalues_lang"
+            android:key="lang"
+            android:summary="@string/lang_summary"
+            android:title="@string/lang_title" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="notification_icon"
+            android:summary="@string/s_say_update_text"
+            android:title="@string/s_notification_icon" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/s_prefs_category_apps_manager" >
+        <CheckBoxPreference
+            android:key="pref_display_system_apps"
+            android:title="@string/s_display_system_apps" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

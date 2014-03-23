@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="s_location">Ort</string>
+    <string name="s_gps_network">GPS + Netzwerk</string>
+    <string name="s_network">Netzwerk</string>
+    <string name="s_wifi">WLAN</string>
+    <string name="s_airplane">Flugzeug</string>
+    <string name="s_bright">Helligkeit</string>
+    <string name="s_discard">Verwerfen</string>
+    <string name="s_cancel">Abbrechen</string>
+    <string name="s_save">Speichern</string>
+    <string name="s_storage">Speicher</string>
+    
+    <string name="s_brightness_current_lvl">Aktueller Stand</string>
+    <string name="s_btn_brightness_low">0%</string>
+    <string name="s_btn_brightness_custom">Benutzerdefiniert</string>
+    <string name="s_btn_security">Sicherheit</string>
+    <string name="s_btn_screen_off">Bildschirm aus</string>
+    <string name="s_profile">Profile</string>
+    <string name="s_ringer_mode">Rufton-Modus</string>
+    <string name="s_btn_memory">Speicher</string>
+    
+    <string name="s_volume_control">Lautstärkeregelung</string>
+    <string name="s_volume_ringer">Ruftonlautstärke</string>
+    <string name="s_volume_notification">Benachrichtigungs-Lautstärke</string>
+    <string name="s_volume_media">Medien-Lautstärke</string>
+    <string name="s_volume_alarm">Alarmlautstärke</string>
+    <string name="s_volume_voice">Gesprächslautstärke</string>
+    <string name="s_volume_system">Systemlautstärke</string>
+    
+    <string name="s_export_success">wurde erfolgreich exportiert.</string>
+    <string name="s_export_access_denied">Leider kein Zugriff möglich.</string>
+    <string name="s_export_io_error">I/O Fehler.</string>
+    <string name="s_open_error">Fehler beim Öffnen.</string>
+    
+    <string name="s_action_open_app">Öffnen</string>
+    <string name="s_action_info_app">Info</string>
+    <string name="s_action_export_app">Exportieren</string>
+    <string name="s_action_uninstall_app">Deinstallieren</string>
+    
+    <string name="s_sort_by_name">Nach Namen sortieren</string>
+    <string name="s_sort_by_size">Nach Größe sortieren</string>
+    
+    <string name="s_find_apps">Wird geladen&#8230;</string>
+    <string name="s_no_files">Keine Dateien</string>
+    
+    <string name="s_no_light_sensor">Kein Lichtsensor</string>
+    
+    <string name="s_hold_me">Halte mich</string>
+    <string name="s_rate_me">Bitte bewerten Sie uns, um zu helfen diese App zu verbessern.</string>
+    <string name="s_prefs_caption">Einstellungen</string>
+    <string name="s_prefs_category_main">Allgemein</string>
+    <string name="s_no_thanks">Nein, danke</string>
+    <string name="s_rate_it">Bewerten!</string>
+    <string name="s_like_this_app">Mögen Sie diese App?</string>
+    <string name="s_please_rate_it_google_play">Bitte bewerten Sie in Google Play!</string>
+    
+    <string name="s_desc">einfach</string>
+    
+    <string name="s_display_system_apps">System-Apps anzeigen</string>
+    
+    <string name="s_apps_count">Anzahl Apps:</string>
+    
+    <string name="s_screen_15sec">15 sekunden</string>    
+	<string name="s_screen_30sec">30 sekunden</string>
+	<string name="s_screen_1min">1 minute</string>
+	<string name="s_screen_2min">2 minuten</string>
+	<string name="s_screen_5min">5 minuten</string>
+	<string name="s_screen_10min">10 minuten</string>
+	<string name="s_screen_30min">30 minuten</string>
+	<string name="s_screen_never">Nie</string>
+	
+	<string name="s_ringer_onlysound">Nur Ton</string>
+	<string name="s_ringer_soundvibra">Ton &amp; Vibration</string>
+	<string name="s_ringer_vibra">Nur Vibration</string>
+	<string name="s_ringer_silent">Still</string>
+	
+</resources>

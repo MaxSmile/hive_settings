@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="s_location">Розташування</string>
+    <string name="s_gps_network">GPS + Мережа</string>
+    <string name="s_network">Мережа</string>
+    <string name="s_rotation">Поворот</string>
+    <string name="s_airplane">У літаку</string>
+    <string name="s_sync">Синхронізація</string>
+    <string name="s_bright">Яскравість</string>
+    <string name="s_discard">Відкинути</string>
+    <string name="s_cancel">Скасувати</string>
+    <string name="s_save">Зберегти</string>
+    <string name="s_ok">Гаразд</string>
+    <string name="s_point">ТД:</string>
+    <string name="s_storage">Носій</string>
+    <string name="s_explorer">Провідник</string>
+    
+    <string name="s_brightness_current_lvl">Поточний рівень</string>
+    <string name="s_btn_brightness_custom">Власний</string>
+    <string name="s_btn_security">Безпека</string>
+    <string name="s_btn_screen_off">Екран вимкн</string>
+    <string name="s_profile">Профілі</string>
+    <string name="s_ringer_mode">Режим дзвінка</string>
+    <string name="s_apn">APN</string>
+    <string name="s_btn_apps">Програми</string>
+    <string name="s_btn_memory">Пам\'ять</string>
+    
+    <string name="s_volume_control">Регулятор гучності</string>
+    <string name="s_volume_ringer">Гучність дзвінка</string>
+    <string name="s_volume_notification">Гучність сповіщення</string>
+    <string name="s_volume_media">Гучність медіа</string>
+    <string name="s_volume_alarm">Гучність будильника</string>
+    <string name="s_volume_voice">Гучність голосового виклику</string>
+    <string name="s_volume_system">Системна гучність</string>
+    
+    <string name="s_export_success">успішно експортовано.</string>
+    <string name="s_export_access_denied">На жаль, я не можу отримати доступ.</string>
+    <string name="s_export_io_error">Помилка вводу/виводу.</string>
+    <string name="s_open_error">Помилка відкриття.</string>
+    
+    <string name="s_action_open_app">Відкрити</string>
+    <string name="s_action_info_app">Інформація</string>
+    <string name="s_action_export_app">Експорт</string>
+    <string name="s_action_uninstall_app">Видалити</string>
+    
+    <string name="s_sort_by_name">Сортувати за іменем</string>
+    <string name="s_sort_by_size">Сортувати за розміром</string>
+    
+    <string name="s_find_apps">Завантаження&#8230;</string>
+    <string name="s_no_files">Немає файлів</string>
+    
+    <string name="s_no_light_sensor">Немає датчика світла</string>
+    
+    <string name="s_hold_me">Тримайте мене</string>
+    <string name="s_rate_me">Будь ласка, оцініть програму, щоб допомогти покращити її.</string>
+    <string name="s_prefs_caption">Налаштування</string>
+    <string name="s_prefs_category_main">Основне</string>
+    <string name="s_prefs_category_apps_manager">Менеджер програм</string>
+    <string name="s_no_thanks">Ні, дякую</string>
+    <string name="s_rate_it">Оцініть її!</string>
+    <string name="s_like_this_app">Подобається ця програма?</string>
+    <string name="s_please_rate_it_google_play">Будь ласка, оцініть програму в Google Play!</string>
+    
+    <string name="s_desc">простий</string>
+    
+    <string name="s_display_system_apps">Відображати системні програми</string>
+    
+    <string name="s_apps_count">Кількість програм:</string>
+    
+    <string name="s_screen_15sec">15 секунд</string>    
+	<string name="s_screen_30sec">30 секунд</string>
+	<string name="s_screen_1min">1 хвилина</string>
+	<string name="s_screen_2min">2 хвилини</string>
+	<string name="s_screen_5min">5 хвилин</string>
+	<string name="s_screen_10min">10 хвилин</string>
+	<string name="s_screen_30min">30 хвилин</string>
+	<string name="s_screen_never">Ніколи</string>
+	
+	<string name="s_ringer_onlysound">Лише звук</string>
+	<string name="s_ringer_soundvibra">Звук і вібрація</string>
+	<string name="s_ringer_vibra">Тільки вібрація</string>
+	<string name="s_ringer_silent">Тишина</string>
+	
+</resources>

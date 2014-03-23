@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="s_location">Locatie</string>
+    <string name="s_gps_network">GPS + Retea</string>
+    <string name="s_network">Retea</string>
+    <string name="s_rotation">Rotatie</string>
+    <string name="s_airplane">Avion</string>
+    <string name="s_sync">Sincronizare</string>
+    <string name="s_bright">Luminozitate</string>
+    <string name="s_discard">Renunțați</string>
+    <string name="s_cancel">Revocare</string>
+    <string name="s_save">Salvaţi</string>
+    <string name="s_storage">Mediu Stocare</string>
+    
+    <string name="s_brightness_current_lvl">Nivelul curent</string>
+    <string name="s_btn_brightness_custom">Personalizat</string>
+    <string name="s_btn_security">Securitate</string>
+    <string name="s_btn_screen_off">Inchidere ecran</string>
+    <string name="s_profile">Profiluri</string>
+    <string name="s_ringer_mode">Modul de sonerie</string>
+    <string name="s_btn_apps">Aplicatii</string>
+    <string name="s_btn_memory">Memorie</string>
+    
+    <string name="s_volume_control">Control volum</string>
+    <string name="s_volume_ringer">Volum sonerie</string>
+    <string name="s_volume_notification">Volum notificare</string>
+    <string name="s_volume_media">Volum media</string>
+    <string name="s_volume_alarm">Volum alarmă</string>
+    <string name="s_volume_voice">Volum apel voce</string>
+    <string name="s_volume_system">Volum de sistem</string>
+    
+    <string name="s_export_success">a fost exportat cu succes.</string>
+    <string name="s_export_access_denied">Imi pare rau, nu pot accesa.</string>
+    <string name="s_export_io_error">Eroare I/O.</string>
+    <string name="s_open_error">Eroare la deschidere.</string>
+    
+    <string name="s_action_open_app">Deschis</string>
+    <string name="s_action_info_app">Informaţii</string>
+    <string name="s_action_export_app">Exporta</string>
+    <string name="s_action_uninstall_app">Dezinstalare</string>
+    
+    <string name="s_sort_by_name">Sorteaza după nume</string>
+    <string name="s_sort_by_size">Sortează după dimensiune</string>
+    
+    <string name="s_find_apps">Se încarcă&#8230;</string>
+    <string name="s_no_files">Nu sunt fisiere</string>
+    
+    <string name="s_no_light_sensor">Nu exista senzor de lumină</string>
+    
+    <string name="s_hold_me">Ţine-mă</string>
+    <string name="s_rate_me">Va rugam sa ne evaluati, pentru a ajuta la imbunatațirea acestei aplicații.</string>
+    <string name="s_prefs_caption">Preferinţe</string>
+    <string name="s_prefs_category_main">Principal</string>
+    <string name="s_prefs_category_apps_manager">Manager aplicații</string>
+    <string name="s_no_thanks">Nu, mulţumesc</string>
+    <string name="s_rate_it">Evalueaza!</string>
+    <string name="s_like_this_app">Îți place aceasta aplicație?</string>
+    <string name="s_please_rate_it_google_play">Va rugam sa evaluaţi aplicaţia în Google Play!</string>
+    
+    <string name="s_desc">simplu</string>
+    
+    <string name="s_display_system_apps">Afişeaza aplicaţiile sistem</string>
+    
+    <string name="s_apps_count">Numărul de aplicaţii:</string>
+    
+    <string name="s_screen_15sec">15 secunde</string>    
+	<string name="s_screen_30sec">30 de secunde</string>
+	<string name="s_screen_1min">1 minut</string>
+	<string name="s_screen_2min">2 minute</string>
+	<string name="s_screen_5min">5 minute</string>
+	<string name="s_screen_10min">10 minutes</string>
+	<string name="s_screen_30min">30 de minute</string>
+	<string name="s_screen_never">Niciodată</string>
+	
+	<string name="s_ringer_onlysound">Doar sunet</string>
+	<string name="s_ringer_soundvibra">Sunet &amp; vibraţii</string>
+	<string name="s_ringer_vibra">Doar vibraţii</string>
+	<string name="s_ringer_silent">Silentios</string>
+	
+</resources>
